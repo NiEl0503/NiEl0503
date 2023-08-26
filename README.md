@@ -11,7 +11,7 @@
      Nestes repositórios você encontra parte dos meus estudos e projetos desenvolvidos desde que iniciei este grande e belo desafio.
 
 
-  ### Estou aprendendo:
+  ### Habilidades:
    
 <div align="center" dir="auto"><br> 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"><img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
