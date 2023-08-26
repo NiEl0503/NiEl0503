@@ -4,7 +4,7 @@
 
 
 - 😄 Meu nome é Ninoska Contreras.
-- ⚡ Atualmente estou estudando em Laboratoria.
+- ⚡ Atualmente sou estudante de desenvolvimento web (full stack).
 - ✨ Curiosidade: Adoro ouvir música.
 - 🚀 Eu quero ser um desenvolvedor web.
 <br>
