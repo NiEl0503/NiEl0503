@@ -20,6 +20,9 @@
 
 
   ### Habilidades:
+  <p align="center">
+  Html, Tipescript, Angular, Bootstrap, Css, Figma, Firebase, Git, Github, Javascript, Jest, Nodejs, Vscode
+  </p>
    
 <p align="center">
   <a href="https://skillicons.dev">
