@@ -4,7 +4,8 @@
 
 
 - 😄 Meu nome é Ninoska Contreras.
-- ⚡ Atualmente sou estudante de desenvolvimento web (full stack).
+- ⚡ Graduei-me na Laboratoria, onde adquiri conhecimentos sólidos em front-end, e também participei no programa Elas na_Tech, expandindo minhas habilidades nessa área. Atualmente, estou dedicando meu tempo a estudar 
+     back-end na Cubos Academy, onde estou aprofundando meus conhecimentos em tecnologias como bancos de dados, servidores, entre outros.
 - ✨ Curiosidade: Adoro ouvir música.
 - 🚀 Eu quero ser um desenvolvedor web.
 <br>
