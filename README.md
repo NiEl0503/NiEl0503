@@ -7,7 +7,7 @@
 - ⚡ Graduei-me na Laboratoria, onde adquiri conhecimentos sólidos em front-end, e também participei no programa Elas na_Tech, expandindo minhas habilidades nessa área. Atualmente, estou dedicando meu tempo a estudar 
      back-end na Cubos Academy, onde estou aprofundando meus conhecimentos em tecnologias como bancos de dados, servidores, entre outros.
 - ✨ Curiosidade: Adoro ouvir música.
-- 🚀 Eu quero ser um desenvolvedor web.
+- 🚀 Sou autodidata e tenho uma paixão inata pelo aprendizado constante
 <br>
      Nestes repositórios você encontra parte dos meus estudos e projetos desenvolvidos desde que iniciei este grande e belo desafio.
 <br>
