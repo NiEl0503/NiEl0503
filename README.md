@@ -4,8 +4,8 @@
 
 
 - 😄 Meu nome é Ninoska Contreras.
-- ⚡ Graduei-me na Laboratoria, onde adquiri conhecimentos sólidos em front-end, e também participei no programa Elas na_Tech, expandindo minhas habilidades nessa área. Atualmente, estou dedicando meu tempo a estudar 
-     back-end na Cubos Academy, onde estou aprofundando meus conhecimentos em tecnologias como bancos de dados, servidores, entre outros.
+- ⚡ Me formei na Laboratoria, onde obtive sólidos conhecimentos em front-end. Adicionalmente, participei ativamente do programa Elas na_Tech, ampliando ainda mais minhas competências nesta área. Posteriormente, 
+     concluí estudos de back-end na Cubos Academy, onde aprofundei meus conhecimentos em tecnologias como bancos de dados, servidores e muito mais.
 - ✨ Curiosidade: Adoro ouvir música.
 - 🚀 Sou autodidata e tenho uma paixão inata pelo aprendizado constante
 <br>
