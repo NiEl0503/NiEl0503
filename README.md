@@ -22,12 +22,12 @@
 
   ### Habilidades:
   <p align="center">
-  Html, Typescript, Angular, Bootstrap, Css, Figma, Firebase, Git, Github, Javascript, Jest, Nodejs, Vscode, JavaScript, Python, Django
+  Html, Typescript, Angular, Bootstrap, Css, Figma, Firebase, Git, Github, Javascript, Jest, Nodejs, Vscode, Python, Django, PostgreSQL
   </p>
    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,ts,angular,bootstrap,css,figma,firebase,git,github,js,jest,nodejs,vscode,js,py,django" />
+    <img src="https://skillicons.dev/icons?i=html,ts,angular,bootstrap,css,figma,firebase,git,github,js,jest,nodejs,vscode,py,django,postgres" />
   </a>
 </p>
 
