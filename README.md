@@ -63,9 +63,6 @@ Actualmente, estoy ampliando mis habilidades en análisis y visualización de da
 #### Frontend: <br>
 JavaScript, HTML, CSS, Angular, Vue.Js, TypeScript, Bootstrap, Saas. <br>
 
-#### Otimização e Desempenho / Optimización y Rendimiento: <br>
-Experiencia en la mejora de rendimiento de aplicaciones web <br>
-
 #### Disenho / Diseño y UX/UI: <br>
 Figma, UX, UI. <br>
 
@@ -83,6 +80,7 @@ pyspark, pandas, power bi, matplotlib, seaborn, numpy, jupiter notebbok, excel. 
 
 #### Habilidades Pessoais / Habilidades Personales: <br> 
 Adaptação, Flexibilidade, Trabalho em equipe, Capacidade analítica, Autoaprendizagem, Metodologias ágeis, Planejamento, Independência, Eficiência. <br> 
+
 Adaptación, Flexibilidad, Trabajo en equipo, Capacidad analítica, Autoaprendizaje, Metodologías ágiles, Planificación, Independencia, Eficacia.
 
 <br>
